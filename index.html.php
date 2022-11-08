@@ -1,4 +1,5 @@
-<?php require_once "controllerUserData.php"; ?>
+<html>
+    <?php require_once "controllerUserData.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,4 +46,5 @@
     </div>
     
 </body>
+</html>
 </html>
